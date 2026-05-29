@@ -1,0 +1,5 @@
+datasets/
+cat_dataset.zip
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
